@@ -1,0 +1,3 @@
+This is .Net training session on File input and output
+welcome to the session
+thanks

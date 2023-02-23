@@ -1,0 +1,6 @@
+C:\Projects\Training\Jan2023\DotNetJan2023\SampleLibrary\bin\Debug\SampleLibrary.dll
+C:\Projects\Training\Jan2023\DotNetJan2023\SampleLibrary\bin\Debug\SampleLibrary.pdb
+C:\Projects\Training\Jan2023\DotNetJan2023\SampleLibrary\obj\Debug\SampleLibrary.csproj.AssemblyReference.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\SampleLibrary\obj\Debug\SampleLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\SampleLibrary\obj\Debug\SampleLibrary.dll
+C:\Projects\Training\Jan2023\DotNetJan2023\SampleLibrary\obj\Debug\SampleLibrary.pdb

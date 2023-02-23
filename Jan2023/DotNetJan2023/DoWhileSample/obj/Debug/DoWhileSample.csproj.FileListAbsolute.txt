@@ -1,0 +1,8 @@
+C:\Projects\Training\Jan2023\DotNetJan2023\DoWhileSample\obj\Debug\DoWhileSample.csproj.AssemblyReference.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\DoWhileSample\obj\Debug\DoWhileSample.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\DoWhileSample\obj\Debug\DoWhileSample.csproj.CoreCompileInputs.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\DoWhileSample\bin\Debug\DoWhileSample.exe.config
+C:\Projects\Training\Jan2023\DotNetJan2023\DoWhileSample\bin\Debug\DoWhileSample.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\DoWhileSample\bin\Debug\DoWhileSample.pdb
+C:\Projects\Training\Jan2023\DotNetJan2023\DoWhileSample\obj\Debug\DoWhileSample.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\DoWhileSample\obj\Debug\DoWhileSample.pdb

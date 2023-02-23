@@ -1,0 +1,8 @@
+C:\Projects\Training\Jan2023\DotNetJan2023\WhileLoopSample\bin\Debug\WhileLoopSample.exe.config
+C:\Projects\Training\Jan2023\DotNetJan2023\WhileLoopSample\bin\Debug\WhileLoopSample.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\WhileLoopSample\bin\Debug\WhileLoopSample.pdb
+C:\Projects\Training\Jan2023\DotNetJan2023\WhileLoopSample\obj\Debug\WhileLoopSample.csproj.AssemblyReference.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\WhileLoopSample\obj\Debug\WhileLoopSample.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\WhileLoopSample\obj\Debug\WhileLoopSample.csproj.CoreCompileInputs.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\WhileLoopSample\obj\Debug\WhileLoopSample.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\WhileLoopSample\obj\Debug\WhileLoopSample.pdb

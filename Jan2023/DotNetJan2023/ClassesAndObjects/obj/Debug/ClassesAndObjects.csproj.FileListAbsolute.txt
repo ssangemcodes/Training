@@ -1,0 +1,8 @@
+C:\Projects\Training\Jan2023\DotNetJan2023\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+C:\Projects\Training\Jan2023\DotNetJan2023\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+C:\Projects\Training\Jan2023\DotNetJan2023\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.AssemblyReference.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb

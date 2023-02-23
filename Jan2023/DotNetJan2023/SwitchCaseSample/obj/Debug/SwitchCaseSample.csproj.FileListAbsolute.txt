@@ -1,0 +1,8 @@
+C:\Projects\Training\Jan2023\DotNetJan2023\SwitchCaseSample\bin\Debug\SwitchCaseSample.exe.config
+C:\Projects\Training\Jan2023\DotNetJan2023\SwitchCaseSample\bin\Debug\SwitchCaseSample.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\SwitchCaseSample\bin\Debug\SwitchCaseSample.pdb
+C:\Projects\Training\Jan2023\DotNetJan2023\SwitchCaseSample\obj\Debug\SwitchCaseSample.csproj.AssemblyReference.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\SwitchCaseSample\obj\Debug\SwitchCaseSample.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\SwitchCaseSample\obj\Debug\SwitchCaseSample.csproj.CoreCompileInputs.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\SwitchCaseSample\obj\Debug\SwitchCaseSample.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\SwitchCaseSample\obj\Debug\SwitchCaseSample.pdb

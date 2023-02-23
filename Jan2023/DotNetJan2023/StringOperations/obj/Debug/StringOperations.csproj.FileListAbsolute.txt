@@ -1,0 +1,8 @@
+C:\Projects\Training\Jan2023\DotNetJan2023\StringOperations\bin\Debug\StringOperations.exe.config
+C:\Projects\Training\Jan2023\DotNetJan2023\StringOperations\bin\Debug\StringOperations.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\StringOperations\bin\Debug\StringOperations.pdb
+C:\Projects\Training\Jan2023\DotNetJan2023\StringOperations\obj\Debug\StringOperations.csproj.AssemblyReference.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\StringOperations\obj\Debug\StringOperations.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\StringOperations\obj\Debug\StringOperations.csproj.CoreCompileInputs.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\StringOperations\obj\Debug\StringOperations.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\StringOperations\obj\Debug\StringOperations.pdb

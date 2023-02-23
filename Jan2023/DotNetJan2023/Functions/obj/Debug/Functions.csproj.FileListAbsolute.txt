@@ -1,0 +1,8 @@
+C:\Projects\Training\Jan2023\DotNetJan2023\Functions\obj\Debug\Functions.csproj.AssemblyReference.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\Functions\obj\Debug\Functions.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\Functions\bin\Debug\Functions.exe.config
+C:\Projects\Training\Jan2023\DotNetJan2023\Functions\bin\Debug\Functions.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\Functions\bin\Debug\Functions.pdb
+C:\Projects\Training\Jan2023\DotNetJan2023\Functions\obj\Debug\Functions.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\Functions\obj\Debug\Functions.pdb

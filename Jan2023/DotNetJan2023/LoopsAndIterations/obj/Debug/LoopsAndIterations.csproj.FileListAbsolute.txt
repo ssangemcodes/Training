@@ -1,0 +1,8 @@
+C:\Projects\Training\Jan2023\DotNetJan2023\LoopsAndIterations\bin\Debug\LoopsAndIterations.exe.config
+C:\Projects\Training\Jan2023\DotNetJan2023\LoopsAndIterations\bin\Debug\LoopsAndIterations.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\LoopsAndIterations\bin\Debug\LoopsAndIterations.pdb
+C:\Projects\Training\Jan2023\DotNetJan2023\LoopsAndIterations\obj\Debug\LoopsAndIterations.csproj.AssemblyReference.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\LoopsAndIterations\obj\Debug\LoopsAndIterations.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\LoopsAndIterations\obj\Debug\LoopsAndIterations.csproj.CoreCompileInputs.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\LoopsAndIterations\obj\Debug\LoopsAndIterations.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\LoopsAndIterations\obj\Debug\LoopsAndIterations.pdb
