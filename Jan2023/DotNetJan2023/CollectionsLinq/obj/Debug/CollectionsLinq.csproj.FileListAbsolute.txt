@@ -1,0 +1,8 @@
+C:\Projects\Training\Jan2023\DotNetJan2023\CollectionsLinq\bin\Debug\CollectionsLinq.exe.config
+C:\Projects\Training\Jan2023\DotNetJan2023\CollectionsLinq\bin\Debug\CollectionsLinq.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\CollectionsLinq\bin\Debug\CollectionsLinq.pdb
+C:\Projects\Training\Jan2023\DotNetJan2023\CollectionsLinq\obj\Debug\CollectionsLinq.csproj.AssemblyReference.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\CollectionsLinq\obj\Debug\CollectionsLinq.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\CollectionsLinq\obj\Debug\CollectionsLinq.csproj.CoreCompileInputs.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\CollectionsLinq\obj\Debug\CollectionsLinq.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\CollectionsLinq\obj\Debug\CollectionsLinq.pdb

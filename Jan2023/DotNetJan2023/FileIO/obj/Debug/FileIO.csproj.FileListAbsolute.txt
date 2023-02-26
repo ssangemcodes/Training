@@ -1,0 +1,8 @@
+C:\Projects\Training\Jan2023\DotNetJan2023\FileIO\bin\Debug\FileIO.exe.config
+C:\Projects\Training\Jan2023\DotNetJan2023\FileIO\bin\Debug\FileIO.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\FileIO\bin\Debug\FileIO.pdb
+C:\Projects\Training\Jan2023\DotNetJan2023\FileIO\obj\Debug\FileIO.csproj.AssemblyReference.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\FileIO\obj\Debug\FileIO.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
+C:\Projects\Training\Jan2023\DotNetJan2023\FileIO\obj\Debug\FileIO.exe
+C:\Projects\Training\Jan2023\DotNetJan2023\FileIO\obj\Debug\FileIO.pdb

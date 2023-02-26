@@ -1,0 +1,6 @@
+1|John|123 Main St|22-333-3333
+2|Erica|2342 Second St|220-30-3323
+3|John|123 Third St|22-333-2222
+4|Jeffery|2342 MLK St|220-30-1234
+5|Obama|123 Washington st|78-933-9943
+6|Biden|2342 Connecticut St|323-23-7783

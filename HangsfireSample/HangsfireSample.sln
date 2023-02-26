@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangsfireSample", "HangsfireSample\HangsfireSample.csproj", "{FE04F801-8AE7-43F4-BB86-21A3F2AFE49D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangFireSample", "HangFireSample\HangFireSample.csproj", "{1C20897A-F019-4059-93D3-FB8F1E9D66B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE04F801-8AE7-43F4-BB86-21A3F2AFE49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE04F801-8AE7-43F4-BB86-21A3F2AFE49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE04F801-8AE7-43F4-BB86-21A3F2AFE49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE04F801-8AE7-43F4-BB86-21A3F2AFE49D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C20897A-F019-4059-93D3-FB8F1E9D66B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C20897A-F019-4059-93D3-FB8F1E9D66B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C20897A-F019-4059-93D3-FB8F1E9D66B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C20897A-F019-4059-93D3-FB8F1E9D66B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27185EFC-DD61-43D6-944A-B1CE797BCC5C}
+	EndGlobalSection
+EndGlobal
