@@ -21,6 +21,7 @@ namespace FileIO
                 //Console.WriteLine(stringFromFile);
 
                 var studentDetails = stringFromFile.Split('|');
+                
                 var newStudent = new Student(Convert.ToInt32(studentDetails[0]));
                 newStudent.Name = studentDetails[1];
                 newStudent.Address = studentDetails[2];
